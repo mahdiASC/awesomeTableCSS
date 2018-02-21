@@ -1,0 +1,7 @@
+.deadline_def{
+display:block;
+}
+
+.deadline_def + .deadline:empty{
+  display:none;
+}
