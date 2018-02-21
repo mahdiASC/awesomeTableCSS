@@ -5,3 +5,8 @@ display:block;
 .deadline_def + .deadline:empty{
   display:none;
 }
+
+.row-container{
+ border: solid red 2px;
+  border-radius: 15px;
+}
